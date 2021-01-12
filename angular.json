@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "polind"
+  "defaultProject": "polind",
+  "cli": {
+    "analytics": "76378829-16ee-4691-b18f-131b4b09f580"
+  }
 }
